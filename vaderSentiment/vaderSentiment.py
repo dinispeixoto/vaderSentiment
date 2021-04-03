@@ -536,7 +536,13 @@ if __name__ == '__main__':
                  # mixed sentiment example with slang and constrastive conjunction "but"
                  "Make sure you :) or :D today!",  # emoticons handled
                  "Catch utf-8 emoji such as 💘 and 💋 and 😁",  # emojis handled
-                 "Not bad at all"  # Capitalized negation
+                 "Not bad at all",  # Capitalized negation
+                 "🦍",
+                 "🚀",
+                 "💎",
+                 "🌕",
+                 "🙌",
+                 "📈"
                  ]
 
     analyzer = SentimentIntensityAnalyzer()
