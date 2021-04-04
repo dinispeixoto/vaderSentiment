@@ -542,7 +542,9 @@ if __name__ == '__main__':
                  "💎",
                  "🌕",
                  "🙌",
-                 "📈"
+                 "📈",
+                 "I will buy more stocks",
+                 "I will sell everything"
                  ]
 
     analyzer = SentimentIntensityAnalyzer()
