@@ -2078,18 +2078,18 @@
 👐🏽	open hands: medium skin tone
 👐🏾	open hands: medium-dark skin tone
 👐🏿	open hands: dark skin tone
-🙌	raising hands
-🙌🏻	raising hands: light skin tone
-🙌🏼	raising hands: medium-light skin tone
-🙌🏽	raising hands: medium skin tone
-🙌🏾	raising hands: medium-dark skin tone
-🙌🏿	raising hands: dark skin tone
-🤲	palms up together
-🤲🏻	palms up together: light skin tone
-🤲🏼	palms up together: medium-light skin tone
-🤲🏽	palms up together: medium skin tone
-🤲🏾	palms up together: medium-dark skin tone
-🤲🏿	palms up together: dark skin tone
+🙌	raising hands I LIKE the stock
+🙌🏻	raising hands: light skin tone I LIKE the stock
+🙌🏼	raising hands: medium-light skin tone I LIKE the stock
+🙌🏽	raising hands: medium skin tone I LIKE the stock
+🙌🏾	raising hands: medium-dark skin tone I LIKE the stock
+🙌🏿	raising hands: dark skin tone I LIKE the stock
+🤲	palms up together I LIKE the stock
+🤲🏻	palms up together: light skin tone I LIKE the stock
+🤲🏼	palms up together: medium-light skin tone I LIKE the stock
+🤲🏽	palms up together: medium skin tone I LIKE the stock
+🤲🏾	palms up together: medium-dark skin tone I LIKE the stock
+🤲🏿	palms up together: dark skin tone I LIKE the stock
 🙏	folded hands
 🙏🏻	folded hands: light skin tone
 🙏🏼	folded hands: medium-light skin tone
@@ -2207,10 +2207,10 @@
 📿	prayer beads
 💄	lipstick
 💍	ring
-💎	gem stone
+💎	gem stone I LIKE the stock
 🐵	monkey face
 🐒	monkey
-🦍	gorilla
+🦍	gorilla I LIKE the stock
 🐶	dog face
 🐕	dog
 🐩	poodle
@@ -2638,7 +2638,7 @@
 🌒	waxing crescent moon
 🌓	first quarter moon
 🌔	waxing gibbous moon
-🌕	full moon
+🌕	full moon I LIKE the stock
 🌖	waning gibbous moon
 🌗	last quarter moon
 🌘	waning crescent moon
@@ -2924,8 +2924,8 @@
 🗓️	spiral calendar
 🗓	spiral calendar
 📇	card index
-📈	chart increasing
-📉	chart decreasing
+📈	chart increasing I LIKE the stock
+📉	chart decreasing I HAVE the stock
 📊	bar chart
 📋	clipboard
 📌	pushpin
